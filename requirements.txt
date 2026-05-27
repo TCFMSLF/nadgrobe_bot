@@ -1,0 +1,4 @@
+Flask==0.12
+requests==2.20.0
+PyYAML==3.13
+Pillow==5.0.0
